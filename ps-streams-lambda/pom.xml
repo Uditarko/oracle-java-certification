@@ -11,6 +11,8 @@
     <modules>
         <module>working-with-lambdas</module>
         <module>working-with-functional-interfaces</module>
+        <module>streams-basics</module>
+        <module>streams-advanced</module>
     </modules>
     <dependencyManagement>
         <dependencies>
